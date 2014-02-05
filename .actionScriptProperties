@@ -37,12 +37,6 @@
     <application path="BlockBreaker.as">
       <airExcludes/>
     </application>
-    <application path="RandomCircle.as">
-      <airExcludes/>
-    </application>
-    <application path="CircleBreaker.as">
-      <airExcludes/>
-    </application>
   </applications>
   <modules/>
   <buildCSSFiles/>
